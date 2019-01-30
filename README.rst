@@ -1,16 +1,16 @@
 ================================================================================
-moban-mako
+moban-tornado
 ================================================================================
 
-.. image:: https://api.travis-ci.org/moremoban/moban-mako.svg
-   :target: http://travis-ci.org/moremoban/moban-mako
+.. image:: https://api.travis-ci.org/moremoban/moban-tornado.svg
+   :target: http://travis-ci.org/moremoban/moban-tornado
 
-.. image:: https://codecov.io/github/moremoban/moban-mako/coverage.png
-   :target: https://codecov.io/github/moremoban/moban-mako
+.. image:: https://codecov.io/github/moremoban/moban-tornado/coverage.png
+   :target: https://codecov.io/github/moremoban/moban-tornado
 
 
-.. image:: https://readthedocs.org/projects/moban-mako/badge/?version=latest
-   :target: http://moban-mako.readthedocs.org/en/latest/
+.. image:: https://readthedocs.org/projects/moban-tornado/badge/?version=latest
+   :target: http://moban-tornado.readthedocs.org/en/latest/
 
 
 Installation
@@ -20,6 +20,6 @@ You can get it:
 
 .. code-block:: bash
 
-    $ git clone https://github.com/moremoban/moban-mako.git
-    $ cd moban-mako
+    $ git clone https://github.com/moremoban/moban-tornado.git
+    $ cd moban-tornado
     $ python setup.py install

@@ -1,4 +1,4 @@
-name: "moban-mako"
+name: "moban-tornado"
 organisation: "moremoban"
 author: "Prajwal M, C.W. et al"
 contact: "wangc_2011@hotmail.com"
@@ -9,6 +9,6 @@ release: "0.0.0"
 copyright_year: 2019-2020
 license: MIT
 dependencies:
-  - Mako
+  - tornado
   - lml>=0.0.7
-description: "Provide mako templating capability to moban."
+description: "Provide tornado templating capability to moban."
