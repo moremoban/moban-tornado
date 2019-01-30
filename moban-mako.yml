@@ -1,0 +1,14 @@
+name: "moban-mako"
+organisation: "moremoban"
+author: "Prajwal M, C.W. et al"
+contact: "wangc_2011@hotmail.com"
+company: "Moremoban dev team and its contributors"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2019-2020
+license: MIT
+dependencies:
+  - Mako
+  - lml>=0.0.7
+description: "Provide mako templating capability to moban."
