@@ -7,7 +7,8 @@ moban-tornado
 
 .. image:: https://codecov.io/github/moremoban/moban-tornado/coverage.png
    :target: https://codecov.io/github/moremoban/moban-tornado
-
+.. image:: https://img.shields.io/github/stars/moremoban/moban-tornado.svg?style=social&maxAge=3600&label=Star
+    :target: https://github.com/moremoban/moban-tornado/stargazers
 
 .. image:: https://readthedocs.org/projects/moban-tornado/badge/?version=latest
    :target: http://moban-tornado.readthedocs.org/en/latest/
